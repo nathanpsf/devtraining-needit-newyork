@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="DELETE">
+        <name> NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 15:39:30</sys_created_on>
+        <sys_id>be945678dbf34010fc65e4da4b961916</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name> NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_be945678dbf34010fc65e4da4b961916</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 16:22:48</sys_updated_on>
+        <title><![CDATA[<p>Gorila assassino!</p>
+<p>hahahaha</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="DELETE" query="documentkey=be945678dbf34010fc65e4da4b961916"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>9c757622dba03300387021c405961983</instance_id>
+        <instance_name>dev78803</instance_name>
+        <name>sys_properties_category_be945678dbf34010fc65e4da4b961916</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_properties_category"&gt;&lt;sys_properties_category action="INSERT_OR_UPDATE"&gt;&lt;name&gt; NeedIt Properties&lt;/name&gt;&lt;sys_class_name&gt;sys_properties_category&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-03-24 15:39:30&lt;/sys_created_on&gt;&lt;sys_id&gt;be945678dbf34010fc65e4da4b961916&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt; NeedIt Properties&lt;/sys_name&gt;&lt;sys_package display_value="NeedIt" source="x_58872_needit"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="NeedIt"&gt;6ead8e780f603200cd674f8ce1050ed1&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_properties_category_be945678dbf34010fc65e4da4b961916&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-03-24 16:22:48&lt;/sys_updated_on&gt;&lt;title&gt;&lt;![CDATA[&lt;p&gt;Gorila assassino!&lt;/p&gt;
+&lt;p&gt;hahahaha&lt;/p&gt;]]&gt;&lt;/title&gt;&lt;/sys_properties_category&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=be945678dbf34010fc65e4da4b961916"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1517960036</payload_hash>
+        <record_name> NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>6b3b3c95dbc30010fc65e4da4b9619c8</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 16:22:48</sys_created_on>
+        <sys_id>c6be16b4db374010fc65e4da4b961998</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1710d5a871c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 16:22:48</sys_updated_on>
+        <type>System Property Category</type>
+        <update_guid>02be16b4d4374010372354ecb1205c98</update_guid>
+        <update_guid_history>02be16b4d4374010372354ecb1205c98:-1517960036,50a99e3078374010d185a9fda7a3f41e:425006377,b7c456b8daf340104c2dc35d802d3649:-932333804</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-24 16:24:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties_category">sys_properties_category</sys_db_object>
+        <sys_id>24d03da3058547be8799e62f97ba36b1</sys_id>
+        <sys_metadata>be945678dbf34010fc65e4da4b961916</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_properties_category_be945678dbf34010fc65e4da4b961916</sys_update_name>
+        <sys_update_version display_value="sys_properties_category_be945678dbf34010fc65e4da4b961916">c6be16b4db374010fc65e4da4b961998</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-24 16:24:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
